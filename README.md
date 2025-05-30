@@ -1,4 +1,4 @@
-# Calculadora simples em C
+# Calculator - V1.0
 
 An simple calculator developed using C language, which operates directly on the terminal (command line) and performs basic mathematical operations such as addition, subtraction, multiplication and division.
 
